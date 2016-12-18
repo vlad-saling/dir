@@ -11,13 +11,21 @@ Most images are relatively high-res, so you'll need to resize them on your end (
 
 https://raw.githubusercontent.com/vlad-saling/dir/master/[theme]/[theme]-[ratioY-ratioX].[ext]
 
-## available imagery themes and examples urls
+## available imagery themes with examples urls
 
 - arch https://raw.githubusercontent.com/vlad-saling/dir/master/arch/arch-1-1.jpg
 - text https://raw.githubusercontent.com/vlad-saling/dir/master/text/text-1-1.jpg
 - lake https://raw.githubusercontent.com/vlad-saling/dir/master/lake/lake-1-1.jpg
 - bridge https://raw.githubusercontent.com/vlad-saling/dir/master/bridge/bridge-1-1.jpg
 - leaf https://raw.githubusercontent.com/vlad-saling/dir/master/leaf/leaf-1-1.jpg
+
+## available ratios with aliases
+
+- 1-1 is 1:1
+- 3-2 is 3:2
+- 4-3 is 4:3
+- 16-9 is 16:9
+- 239-1 is 2,39:1
 
 ## preview
 
