@@ -3,7 +3,7 @@ dummy image repository
 
 ## usage
 
-Most images are relatively high-res, so you'll need to resize them on your end. They are provided in most popular ratios and compressed.
+Most images are relatively high-res, so you'll need to resize them on your end (e.g. via css). They are provided in most popular ratios and compressed.
 
 ## image url pattern
 
