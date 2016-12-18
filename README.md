@@ -1,6 +1,10 @@
 # dir
 dummy image repository
 
+## usage
+
+Most images are relatively high-res, so you'll need to resize them on your end. They are provided in most popular ratios and compressed.
+
 ## image url pattern
 
 https://raw.githubusercontent.com/vlad-saling/dir/master/[theme]/[theme]-[ratioY-ratioX].[ext]
