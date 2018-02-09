@@ -13,11 +13,11 @@ https://raw.githubusercontent.com/vlad-saling/dir/master/[theme]/[theme]-[ratioY
 
 ## available imagery themes with examples urls
 
-- arch https://raw.githubusercontent.com/vlad-saling/dir/master/arch/arch-1-1.jpg
-- text https://raw.githubusercontent.com/vlad-saling/dir/master/text/text-1-1.jpg
-- lake https://raw.githubusercontent.com/vlad-saling/dir/master/lake/lake-1-1.jpg
-- bridge https://raw.githubusercontent.com/vlad-saling/dir/master/bridge/bridge-1-1.jpg
-- leaf https://raw.githubusercontent.com/vlad-saling/dir/master/leaf/leaf-1-1.jpg
+- arch https://vlad-saling.github.io/dir/master/arch/arch-1-1.jpg
+- text https://vlad-saling.github.io/dir/master/text/text-1-1.jpg
+- lake https://vlad-saling.github.io/dir/master/lake/lake-1-1.jpg
+- bridge https://vlad-saling.github.io/dir/master/bridge/bridge-1-1.jpg
+- leaf https://vlad-saling.github.io/dir/master/leaf/leaf-1-1.jpg
 
 ## available ratios with aliases
 
@@ -29,9 +29,9 @@ https://raw.githubusercontent.com/vlad-saling/dir/master/[theme]/[theme]-[ratioY
 
 ## preview
 
-<img src="https://raw.githubusercontent.com/vlad-saling/dir/master/arch/arch-1-1.jpg" width="200" alt="arch" />
-<img src="https://raw.githubusercontent.com/vlad-saling/dir/master/text/text-1-1.jpg" width="200" alt="text" />
-<img src="https://raw.githubusercontent.com/vlad-saling/dir/master/lake/lake-1-1.jpg" width="200" alt="lake" />
-<img src="https://raw.githubusercontent.com/vlad-saling/dir/master/bridge/bridge-1-1.jpg" width="200" alt="bridge" />
-<img src="https://raw.githubusercontent.com/vlad-saling/dir/master/leaf/leaf-1-1.jpg" width="200" alt="leaf" />
+<img src="https://vlad-saling.github.io/dir/master/arch/arch-1-1.jpg" width="200" alt="arch" />
+<img src="https://vlad-saling.github.io/dir/master/text/text-1-1.jpg" width="200" alt="text" />
+<img src="https://vlad-saling.github.io/dir/master/lake/lake-1-1.jpg" width="200" alt="lake" />
+<img src="https://vlad-saling.github.io/dir/master/bridge/bridge-1-1.jpg" width="200" alt="bridge" />
+<img src="https://vlad-saling.github.io/dir/master/leaf/leaf-1-1.jpg" width="200" alt="leaf" />
 
